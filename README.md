@@ -1,5 +1,5 @@
 # **Report on Support Vector Machine Analysis Using the Iris Dataset**
-=======================================================================
+
 ## **Introduction**
 This report details the analysis and modeling performed on the Iris dataset using the Support Vector Machine (SVM) algorithm with a polynomial kernel. The Iris dataset is widely used in data science for classification tasks and contains measurements of different iris flower species.
 
